@@ -20,4 +20,5 @@
 
 - On 2026-07-05, imported prior OpenClaw identity/settings/skills from `https://github.com/7cmdehdrb/openclaw_skill.git`.
 - The active backup/sync repository for this workspace is `https://github.com/7cmdehdrb/openclaw_skills_ver2.git` on branch `main`.
+- Local HTTPS `git push` may require separate GitHub credentials; the GitHub connector can push updates when CLI auth is unavailable.
 - Imported workspace skills include Gmail, Google Calendar, Gog, Tavily, summarization, Playwright MCP, Sonos, automation workflows, model usage, Notion meeting notes, paper summaries to Notion, portfolio price refresh, Gmail calendar scheduler, custom env app runner, and self-improvement.

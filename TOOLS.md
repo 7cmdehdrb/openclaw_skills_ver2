@@ -39,6 +39,14 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 Add whatever helps you do your job. This is your cheat sheet.
 
+## GitHub Workspace Sync
+
+- Active repo: `https://github.com/7cmdehdrb/openclaw_skills_ver2.git`
+- Branch: `main`
+- Local git remote is configured as `origin`, but HTTPS CLI push currently has no stored credentials in this runtime.
+- When CLI `git push` cannot authenticate, use the GitHub connector/API to create a tree, create a commit, and update `main`; then `git fetch origin main` and align local `main` to `origin/main`.
+- For normal CLI pushes, first configure GitHub auth with `gh auth login`, SSH keys, or a credential helper/PAT approved by 소유.
+
 ## Related
 
 - [Agent workspace](/concepts/agent-workspace)
