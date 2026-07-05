@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "skills": {
+    "sonoscli": {
+      "version": "1.0.0",
+      "installedAt": 1771940247221
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1771940307114
+    },
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1771940317659
+    },
+    "model-usage": {
+      "version": "1.0.0",
+      "installedAt": 1771940350837
+    },
+    "gmail": {
+      "version": "1.0.6",
+      "installedAt": 1771940359275
+    },
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1771940502608
+    },
+    "automation-workflows": {
+      "version": "0.1.0",
+      "installedAt": 1771952170369
+    },
+    "playwright-mcp": {
+      "version": "1.0.0",
+      "installedAt": 1771952205905
+    },
+    "self-improving-agent": {
+      "version": "1.0.11",
+      "installedAt": 1772017384518
+    },
+    "google-calendar-api": {
+      "version": "1.0.5",
+      "installedAt": 1772017579054
+    }
+  }
+}
